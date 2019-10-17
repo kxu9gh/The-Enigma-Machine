@@ -9,3 +9,4 @@ Since each rotor and each reflector have different mappings and can be rotated, 
 The overall permutation changes with each successive letter because some of the rotors rotate before encrypting a letter. Each rotor has a circular ratchet on its right half and an “alphabet ring” on its left half that fits over the ratchet of the rotor to its left...
 
 For more detailed information, visit the course website https://cs61bl.org/su19/projects/enigma/#background.
+Contributors: Ke Xu(https://github.com/kxu9gh), Jie Zhang(https://github.com/zhangjiedev)
